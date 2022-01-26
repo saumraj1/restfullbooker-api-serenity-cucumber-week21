@@ -1,0 +1,3 @@
+com\restfulbooker\cucumber\RegressionCucumberRunner.class
+com\restfulbooker\cucumber\steps\BookingCRUDSteps.class
+com\restfulbooker\testbase\TestBase.class
